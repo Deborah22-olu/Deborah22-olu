@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Software development
 - 🌱 I’m currently learning ... Frontend
 - 💞️ I’m looking to collaborate on ...things that concerns my field
-- 📫 How to reach me ... +234 704 075 3565
+- 📫 How to reach me ... deboraholusanya008@gmail.com
 - 😄 Pronouns: ... she
 - ⚡ Fun fact: ... I love exploring on canva
 
