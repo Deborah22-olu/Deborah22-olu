@@ -15,12 +15,12 @@
 
 <br />
 
-<h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heart/heart-original.svg" alt="Passion" width="20" height="20"> Passion & Inspiration</h3>
+<h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heart/heart-original.svg"> Passion & Inspiration</h3>
 <p>My journey into software engineering is driven by a desire to craft elegant and efficient digital solutions. The innovation seen in projects like <a href="https://www.rimac-automobili.com/" target="_blank">Rimac Automobili</a> inspires me to strive for excellence in my own development endeavors.</p>
 
 <br />
 
-<h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lightbulb/lightbulb-on-outline.svg" alt="Aspirations" width="20" height="20"> Future Goals</h3>
+<h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lightbulb/lightbulb-on-outline.svg">Aspiration Future Goals</h3>
 <p>My primary goal is to continuously develop my skills and expertise to become a proficient senior software developer, contributing to challenging and meaningful projects.</p>
 
 <br />
