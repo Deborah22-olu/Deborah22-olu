@@ -34,7 +34,7 @@
 
 <br />
 
-<h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/computer/computer-original.svg" alt="Skills" width="20" height="20"> Skills</h3>
+<h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/computer/computer-original.svg" alt="Skills" width="20" height="20"></h3>
 <p>
   <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code> | <code>React</code> |
 </p>
