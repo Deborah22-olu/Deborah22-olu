@@ -41,7 +41,7 @@
 
 <br />
 
-<h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handshake/handshake-plain.svg" alt="Let's Connect" width="20" height="20"> Let's Connect!</h3>
+<h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handshake/handshake-plain.svg" alt="Let's Connect!" width="20" height="20"></h3>
 <p>I'm always eager to connect with other developers and learn from new experiences. Feel free to reach out!</p>
 
 
