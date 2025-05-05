@@ -28,7 +28,7 @@
 <h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="Projects" width="20" height="20"> Projects & Contributions</h3>
 <p>Here's a glimpse into some of the projects I'm working on:</p>
 <ul>
-  <li><a href="https://github.com/Deborah22-olu/My-first-website" target="_blank">My-first-website</a> - This project represents my initial steps in web development, utilizing HTML, CSS, and JavaScript to create a foundational web presence.</li>
+  <li><a href="bit.ly/DEBORAHOLUSANYA/My-first-website" target="_blank">My-first-website</a> - This project represents my initial steps in web development, utilizing HTML, CSS, and JavaScript to create a foundational web presence.</li>
 </ul>
 <p>Explore my repositories below to see more of my work!</p>
 
