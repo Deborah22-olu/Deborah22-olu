@@ -11,7 +11,7 @@ Deborah22-olu/Deborah22-olu is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/170266854?v=4" alt="Your Profile Picture" width="150" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/204902484?s=400&u=65d03b06de7c6b8374c1510d5657378c07706c50&v=4" alt="Your Profile Picture" width="150" style="border-radius: 50%;">
   <h1>JOSEPH ADJEI</h1>
   <p>Aspiring Software Engineer | ALX Frontend Learner</p>
   <p>Passionate about creating engaging and functional web experiences.</p>
