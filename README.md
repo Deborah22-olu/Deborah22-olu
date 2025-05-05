@@ -4,7 +4,7 @@
   <p>Aspiring Software Engineer | ALX Frontend Learner</p>
   <p>Passionate about creating engaging and functional web experiences.</p>
   <a href="https://bit.ly/DEBORAHOLUSANYA" target="_blank">Portfolio</a> | 
-  <a href="https://www.linkedin.com/in/deborah-olusanya" target="_blank">LinkedIn</a> | 
+  <a href="https://www.linkedin.com/in/deborah-olusanya-384156364" target="_blank">LinkedIn</a> | 
   <a href="mailto:deboraholusanya008@gmail.com">Email</a>
 </div>
 
