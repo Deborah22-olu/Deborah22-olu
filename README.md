@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Deborah22-olu
-- 👀 I’m interested in ... Software development
-- 🌱 I’m currently learning ... Frontend
-- 💞️ I’m looking to collaborate on ...things that concerns my field
-- 📫 How to reach me ... deboraholusanya008@gmail.com
-- 😄 Pronouns: ... she
-- ⚡ Fun fact: ... I love exploring on canva
 
 <!---
 Deborah22-olu/Deborah22-olu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,10 +5,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/204902484?s=400&u=65d03b06de7c6b8374c1510d5657378c07706c50&v=4" alt="Your Profile Picture" width="150" style="border-radius: 50%;">
-  <h1>JOSEPH ADJEI</h1>
+  <h1>Deborah Olusanya</h1>
   <p>Aspiring Software Engineer | ALX Frontend Learner</p>
   <p>Passionate about creating engaging and functional web experiences.</p>
-  <a href="https://sites.google.com/view/joseph-adjei" target="_blank">Portfolio</a> | <a href="https://www.linkedin.com/in/joseph-adjei-b0a588274" target="_blank">LinkedIn</a> | <a href="mailto:crrntsparrow@gmail.com">Email</a>
+  <a href="https://bit.ly/DEBORAHOLUSANYA" target="_blank">Portfolio</a> | <a href="https://www.linkedin.com/in/joseph-adjei-b0a588274" target="_blank">LinkedIn</a> | <a href="mailto:deboraholusanya008@gmail.com">Email</a>
 </div>
 
 <br />
