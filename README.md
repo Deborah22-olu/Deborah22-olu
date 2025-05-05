@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
   <h1>Deborah Olusanya</h1>
   <p>Aspiring Software Engineer | ALX Frontend Learner</p>
   <p>Passionate about creating engaging and functional web experiences.</p>
-  <a href="https://bit.ly/DEBORAHOLUSANYA" target="_blank">Portfolio</a> | <a href="https://https://www.linkedin.com/in/deborah-olusanya-384156364?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BveM4tDRwTkCYgYwXJbmYng%3D%3D-adjei-b0a588274" target="_blank">LinkedIn</a> | <a href="mailto:deboraholusanya008@gmail.com">Email</a>
+  <a href="https://bit.ly/DEBORAHOLUSANYA" target="_blank">Portfolio</a> | <a href="https://https://www.linkedin.com/in/deborah olusanya>LinkedIn</a> | <a href="mailto:deboraholusanya008@gmail.com">Email</a>
 </div>
 
 <br />
