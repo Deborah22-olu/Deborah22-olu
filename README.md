@@ -1,14 +1,11 @@
-
-<!---
-Deborah22-olu/Deborah22-olu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/204902484?s=400&u=65d03b06de7c6b8374c1510d5657378c07706c50&v=4" alt="Your Profile Picture" width="150" style="border-radius: 50%;">
   <h1>Deborah Olusanya</h1>
   <p>Aspiring Software Engineer | ALX Frontend Learner</p>
   <p>Passionate about creating engaging and functional web experiences.</p>
-  <a href="https://bit.ly/DEBORAHOLUSANYA" target="_blank">Portfolio</a> | <a href="https://https://www.linkedin.com/in/deborah olusanya>LinkedIn</a> | <a href="mailto:deboraholusanya008@gmail.com">Email</a>
+  <a href="https://bit.ly/DEBORAHOLUSANYA" target="_blank">Portfolio</a> | 
+  <a href="https://www.linkedin.com/in/deborah-olusanya" target="_blank">LinkedIn</a> | 
+  <a href="mailto:deboraholusanya008@gmail.com">Email</a>
 </div>
 
 <br />
@@ -31,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 <h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="Projects" width="20" height="20"> Projects & Contributions</h3>
 <p>Here's a glimpse into some of the projects I'm working on:</p>
 <ul>
-  <li><a href="https://github.com/Currentsparrow/My-first-website" target="_blank">My-first-website</a> - This project represents my initial steps in web development, utilizing HTML, CSS, and JavaScript to create a foundational web presence.</li></li>
+  <li><a href="https://github.com/Currentsparrow/My-first-website" target="_blank">My-first-website</a> - This project represents my initial steps in web development, utilizing HTML, CSS, and JavaScript to create a foundational web presence.</li>
 </ul>
 <p>Explore my repositories below to see more of my work!</p>
 
@@ -46,3 +43,5 @@ You can click the Preview link to take a look at your changes.
 
 <h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handshake/handshake-plain.svg" alt="Let's Connect" width="20" height="20"> Let's Connect!</h3>
 <p>I'm always eager to connect with other developers and learn from new experiences. Feel free to reach out!</p>
+
+
